@@ -1,5 +1,42 @@
-body {
-    color:blanchedalmond;
-}
+body { 
+    color:blanchedalmond; 
+    background-color:darkgray;
+        }
 
-h1{background-color:lightslategrey;}
+h1 {
+    background-color: lightslategray;
+    font-size:  96px; border-style:solid;
+     text-align:center;
+        }
+
+h2 {
+    background-color: lightslategray;
+    font-size: 48px;border-style:solid;
+    text-align:center
+    }
+
+div {
+    line-height 1.4em;}
+
+p  {
+    text-align:center
+    }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: "460";
+    height: "600"
+    }
+h3 {
+    background-color: lightslategray;
+    font-size:  96px; border-style:solid;
+     text-align:center;
+    }
+    ul.a {
+        list-style-type: square;
+        
+      }
+a:hover {
+    color: hotpink;
+  }
